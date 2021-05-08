@@ -1,0 +1,5 @@
+[userData]
+PINCODE=221001
+EMAIL=parikhjatin95@gmail.com
+APPLICATION_PASSWORD=jrp
+AGE=25
